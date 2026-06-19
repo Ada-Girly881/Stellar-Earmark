@@ -1,15 +1,27 @@
 # Earmark
 
-**Send money home, with strings attached — the good kind.**
+**Send money home, with strings attached, the good kind.**
 
 Conditional remittances on Stellar, settled in **real USDC**. Attach a condition before funds are
 released, stream support over time so a month's money lasts a month, or route funds straight to a
-verified school, clinic or landlord — all on-chain, non-custodial, corridor-agnostic.
+verified school, clinic or landlord, all on-chain, non-custodial, corridor-agnostic.
 
 ---
+[**Live Link**]() | [**Demo Video**]()
 
-**Live on Stellar Testnet** &nbsp;|&nbsp; Settled in real USDC &nbsp;|&nbsp; Non-custodial Soroban escrow
+---
+### Deployed on Testnet
 
+| Contract | Address |
+|----------|---------|
+| USDC (SAC) | `CBIELTK6YBZJU5UP2WWQEUCYKLPU6AUNZ2BQ4WWFEIE3USCIHMXQDAMA` |
+| Registry | `CDTLFQAWRONKD6DUO3HEZJN66QW7ZAW35GWT6EPFTIEROSOXU2UARJWZ` |
+| Attestation | `CDF6D6NBPE22XPOOSNDOYK6IAYDIOCQ4HWEVG7MFUU7JQGAEINZO3ZXT` |
+| Escrow | `CC3SD43W5NXKYFB6Y62WP2MZI2JRRWHGY74AOILM5F6IQOQMIANTBNCQ` |
+| Streaming | `CBYZHWCEIDY6SFIN3BIPDKUDMSZ7GQNWPNIXOUJPRNC7RIFWBLUZNLB2` |
+
+USDC issuer (testnet): `USDC:GBBD47IF6LWK7P7MDEVSCWR7DPUWV3NY3DTQEVFL4NAT4AQH3ZLLFLA5`
+Deployer / admin: `GDQ6QUVINBCLB3ZCA5BHDBI6E7BNJGCIDWX7WPE2F7UYSGD7P5KBPM2F`
 ---
 
 ## The problem
