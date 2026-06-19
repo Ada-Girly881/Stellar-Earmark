@@ -7,7 +7,7 @@ released, stream support over time so a month's money lasts a month, or route fu
 verified school, clinic or landlord, all on-chain, non-custodial, corridor-agnostic.
 
 ---
-[**Live Link**]() | [**Demo Video**]()
+[**Live Link**](https://stellar-earmark.vercel.app/) | [**Demo Video**](https://www.loom.com/share/1e9277fbae1d430cb91c82291e85ed9a)
 
 ---
 ### Deployed on Testnet
